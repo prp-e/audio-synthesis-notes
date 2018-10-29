@@ -5,4 +5,4 @@ All explainations are available in Jupyter notebook format.
 
 ## Contents 
 
-1. [Numpy and Basics](./notebooks/Numpy and Basics.ipynb)
+1. [Numpy and Basics](./notebooks/Numpy_and_Basics.ipynb)
