@@ -6,3 +6,4 @@ All explainations are available in Jupyter notebook format.
 ## Contents 
 
 1. [Numpy and Basics](./notebooks/Numpy%20and%20Basics.ipynb)
+2. [Generating a sine wave](./notebooks/Generating%20a%20sine%20wave.ipynb)
